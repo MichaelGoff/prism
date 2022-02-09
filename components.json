@@ -660,6 +660,10 @@
 			"require": "clike",
 			"owner": "thesave"
 		},
+		"jsl": {
+			"title": "JMP Scripting Language (JSL)",
+			"owner": "MichaelGoff"
+		},
 		"jq": {
 			"title": "JQ",
 			"owner": "RunDevelopment"

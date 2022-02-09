@@ -119,6 +119,7 @@
 		"javadoc": "JavaDoc",
 		"javadoclike": "JavaDoc-like",
 		"javastacktrace": "Java stack trace",
+		"jsl": "JMP Scripting Language (JSL)",
 		"jq": "JQ",
 		"jsdoc": "JSDoc",
 		"js-extras": "JS Extras",
